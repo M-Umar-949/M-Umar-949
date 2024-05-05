@@ -1,5 +1,7 @@
 ### Hi there 👋
-<button><a href='https://www.linkedin.com/in/muhammad-umar-796506248/'>LinkedIn</a></button>
+# LinkedIn Profile
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-umar-796506248/)
 <!--
 **M-Umar-949/M-Umar-949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
