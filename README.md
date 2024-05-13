@@ -8,6 +8,12 @@
 <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="Python Logo" width="300"/>
 <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" alt="Flask Logo" width="300"><br>
 <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="300"><br>
+<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB Logo" width="300" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/600px-Sql_data_base_with_logo.png" alt="SQL Logo" width="300" height="100">
+
+<img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="PySpark Logo" width="300" height="150">
+<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo" width="300" height="200">
+
 
 <img src="https://img.icons8.com/offices/80/000000/bar-chart.png"/>
 <img src="https://img.icons8.com/windows/96/000000/artificial-intelligence.png"/>
