@@ -16,13 +16,7 @@
 <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo" width="250" height="200">
 
 
-<img src="https://img.icons8.com/offices/80/000000/bar-chart.png"/>
-<img src="https://img.icons8.com/windows/96/000000/artificial-intelligence.png"/>
-<img src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.svg" alt="D3 Logo" width="100"/>
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="200" height="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="200" height="100"/>
+<img src="https://img.icons8.com/offices/80/000000/bar-chart.png"/><img src="https://img.icons8.com/windows/96/000000/artificial-intelligence.png"/><img src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.svg" alt="D3 Logo" width="100"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="200" height="100"/><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="200" height="100"/>
 
 
 
