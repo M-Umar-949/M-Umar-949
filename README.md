@@ -7,8 +7,8 @@
 </p>
 
 ## 👨‍💻 About Me
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm learning Advanced Deep Learning and MLOps
+- 🔭 I'm currently working on [VISUALYTICA]
+- 🌱 I'm learning Advanced Deep Learning,data analytics and visualozation.
 - 👯 I'm looking to collaborate on Data Science and AI projects
 - 💬 Ask me about Machine Learning, Data Analysis, or Python Development
 
