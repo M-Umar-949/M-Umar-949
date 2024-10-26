@@ -115,7 +115,7 @@
 <!--START_SECTION:waka-->
 ```text
 Python       12 hrs 30 mins  ███████████░░░░░░░░  45.00%
-JavaScript   8 hrs 45 mins   ████████░░░░░░░░░░░  31.50%
+JavaScript   8 hrs 45 mins   ████████░░░░░░░░░░░  40.50%
 SQL          4 hrs 10 mins   ███░░░░░░░░░░░░░░░░  15.00%
 Docker       2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░   8.50%
 ```
