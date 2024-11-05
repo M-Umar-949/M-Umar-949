@@ -124,6 +124,15 @@ SQL          4 hrs 10 mins   ███░░░░░░░░░░░░░░
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=m-umar-949&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </div>
+
+
+
+### 📫 How to Reach Me
+- 💼 LinkedIn: [Muhammad Umar](https://linkedin.com/in/muhammad-umar-796506248/)
+- 📧 Email: umaramazon930@gmail.com
+- 🌐 Portfolio: [click here](https://portfolio-git-main-muhammad-umars-projects-fd3ec883.vercel.app/)
+
+
 <!--
 ### 🔥 Featured Projects
 1. **[Project Name 1]**
@@ -139,11 +148,6 @@ SQL          4 hrs 10 mins   ███░░░░░░░░░░░░░░
 -->
 <!--
 
-
-### 📫 How to Reach Me
-- 💼 LinkedIn: [Muhammad Umar](https://linkedin.com/in/muhammad-umar-796506248/)
-- 📧 Email: [Your Email]
-- 🌐 Portfolio: [Your Portfolio Website]
 
 <!--
 ### 🏆 Certifications & Achievements
