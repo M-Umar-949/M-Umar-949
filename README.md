@@ -111,14 +111,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-umar-949&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ██████████░░░░░░░░░░░  45.00%
-JavaScript   11 hrs 25 mins  █████████░░░░░░░░░░░░  41.00%
-SQL          4 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░  15.00%
-```
-<!--END_SECTION:waka-->
+
 
 ### 🔝 Top Contributed Repositories
 <div align="center">
