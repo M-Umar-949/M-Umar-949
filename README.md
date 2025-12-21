@@ -7,10 +7,10 @@
 </p>
 
 ## 👨‍💻 About Me
-- 🔭 I'm currently working on VISUALYTICA
-- 🌱 I'm learning Advanced Deep Learning,data analytics and visualization.
+- 🔭 I'm currently working as an AI developer specifially in Large language models
+- 🌱 I'm learning Data Engineering, data analytics and visualization.
 - 👯 I'm looking to collaborate on Data Science and AI projects
-- 💬 Ask me about Machine Learning, Data Analysis, or Python Development
+- 💬 Ask me about Machine Learning, Data Analysis, or Python/AI Development
 
 ### 🤝 Connect with me:
 <p align="left">
