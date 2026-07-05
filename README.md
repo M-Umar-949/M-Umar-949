@@ -123,7 +123,7 @@
 ### 📫 How to Reach Me
 - 💼 LinkedIn: [Muhammad Umar](https://linkedin.com/in/muhammad-umar-796506248/)
 - 📧 Email: umaramazon930@gmail.com
-- 🌐 Portfolio: [click here](https://portfolio-git-main-muhammad-umars-projects-fd3ec883.vercel.app/)
+- 🌐 Portfolio: [click here](https://umar-blue.vercel.app)
 
 
 <!--
